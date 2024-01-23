@@ -20,8 +20,9 @@ Ensure you have the following prerequisites installed on your system:
 
 ### Installation
 Clone this repository locally by running:
-git clone https://github.com/yourusername/bouncing-ball-simulation.git
-cd bouncing-ball-simulation
+
+`git clone https://github.com/yourusername/bouncing-ball-simulation.git`
+`cd bouncing-ball-simulation`
 
 ## Usage
 After cloning the repository, you can run the simulation using the following command in the terminal:
