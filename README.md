@@ -25,7 +25,8 @@ cd bouncing-ball-simulation
 
 ## Usage
 After cloning the repository, you can run the simulation using the following command in the terminal:
-python main.py
+
+`python main.py`
 
 
 
