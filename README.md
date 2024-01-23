@@ -22,6 +22,7 @@ Ensure you have the following prerequisites installed on your system:
 Clone this repository locally by running:
 
 `git clone https://github.com/yourusername/bouncing-ball-simulation.git`
+
 `cd bouncing-ball-simulation`
 
 ## Usage
